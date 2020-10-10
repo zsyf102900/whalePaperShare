@@ -131,6 +131,7 @@ whalePaper 想做的事：
 5. [YOLO v2](https://shimo.im/docs/p3dqHGXRxwrDtpRw#anchor-d1Ga)【张文涛】
 6. [Circle Loss](https://shimo.im/docs/p3dqHGXRxwrDtpRw#anchor-dr8c)【CJ】
 7. [SPP-Net](https://shimo.im/docs/p3dqHGXRxwrDtpRw#anchor-fjRs)【李国梁】
+8. [YOLO_V4](Topic4/CV/YOLO_V4.pdf)【以若】
 
 #### >> 推荐系统
 

@@ -74,7 +74,7 @@
 #### 自然语言处理
 
 1. [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Topic5/NLP/concept.pdf)【Sm1les】
-2. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](Topic5/NLP/XLNet.pdf)【Sm1les】
+2. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](Topic5/NLP/XLNet.pdf)【玲玲】
 
 #### 图像处理
 

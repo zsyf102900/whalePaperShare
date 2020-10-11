@@ -94,16 +94,21 @@ whalePaper 想做的事：
 #### >> 自然语言处理
 
 1. [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Topic5/NLP/concept.pdf)【Sm1les】
-2. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](Topic5/NLP/XLNet.pdf)【玲玲】
+2. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](Topic5/NLP/XLNet.pdf)【玲玲】【[视频分享](https://pan.baidu.com/s/1DZemw2uvQEUGNnFy5XBqWw) 提取码：g1ky 】
+
 
 #### >> 图像处理
 
+1. [EAST学习笔记](Topic5/CV/EAST学习笔记.pdf)【安晟】
 
 #### >> 推荐系统
 
 1. [DeepCF A Unified Framework of Representation Learning and Matching Function Learning in Recommender System](Topic5/RES/deepcf_20201010224648.pdf)【Jespon】
 2. [EMBEDDING-BASED RETRIEVAL IN FACEBOOK SEARCH](Topic5/RES/EBR_20201010224722.pdf)【星】
 3. [FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click- Through Rate Prediction](Topic5/RES/FiBiNet分享.pdf)【Stefan】
+4. [Deep_Match_to_Rank_Model_for_Personalized_Click](Topic5/RES/Deep_Match_to_Rank_Model_for_Personalized_Click.pdf)【阿泽】【[视频分享](https://pan.baidu.com/s/1DFqZMBxeqiZJuepDQHIDyA) 提取码：gxdc 】
+
+
 
 ### Topic 4
 

@@ -111,7 +111,8 @@ whalePaper 想做的事：
 2. [EMBEDDING-BASED RETRIEVAL IN FACEBOOK SEARCH](Topic5/RES/EBR_20201010224722.pdf)【星】
 3. [FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click- Through Rate Prediction](Topic5/RES/FiBiNet分享.pdf)【Stefan】
 4. [Deep_Match_to_Rank_Model_for_Personalized_Click](Topic5/RES/Deep_Match_to_Rank_Model_for_Personalized_Click.pdf)【阿泽】【[视频分享](https://pan.baidu.com/s/1DFqZMBxeqiZJuepDQHIDyA) 提取码：gxdc 】
-
+5. [Local Item-Item Models for Top-N Recommendation 笔记](Topic5/RES/GLSLIM/GLSLIM_笔记.pdf)【阿泽】【[视频分享](https://pan.baidu.com/s/1-EW0dVzcHO2_rA5j3mteOg) 提取码：o0wt 】
+   1. [Local Item-Item Models for Top-N Recommendation 论文](Topic5/RES/GLSLIM/GLSLIM.pdf)
 
 
 ### Topic 4

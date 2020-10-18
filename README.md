@@ -95,11 +95,15 @@ whalePaper 想做的事：
 
 1. [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](Topic5/NLP/concept.pdf)【Sm1les】
 2. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](Topic5/NLP/XLNet.pdf)【玲玲】【[视频分享](https://pan.baidu.com/s/1DZemw2uvQEUGNnFy5XBqWw) 提取码：g1ky 】
-
+3. [模型蒸馏](Topic5/NLP/模型蒸馏/模型蒸馏.pdf)【李威】【[视频分享](https://pan.baidu.com/s/1kT051jAqVHESAsaKzGL19w) runl 】
+   1. [DistilBERT](Topic5/NLP/模型蒸馏/DistilBERT.pdf)
+   2. [FastBERT](Topic5/NLP/模型蒸馏/FastBERT.pdf)
+   3. [TinyBert](Topic5/NLP/模型蒸馏/TinyBert.pdf)
 
 #### >> 图像处理
 
 1. [EAST学习笔记](Topic5/CV/EAST学习笔记.pdf)【安晟】
+2. [CNN可解释性](Topic5/CV/ABN.pdf)【李国樑】【视频有需要找负责人拿，谢谢】
 
 #### >> 推荐系统
 
